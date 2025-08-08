@@ -1,59 +1,26 @@
-Descrição
-Este projeto realiza a análise de dados fictícios de campanhas de marketing bancário utilizando SQLite, Python e Power BI.
-O objetivo é extrair, transformar e visualizar informações relevantes para medir a eficácia das campanhas e auxiliar na tomada de decisões.
+# Bank Marketing SQL & BI Dashboard
 
-Estrutura do Projeto
-clean.sql – Script SQL para criar e limpar tabelas no banco de dados.
+Este projeto apresenta um pipeline completo de análise de dados utilizando **SQLite**, **Python** e **Power BI** para explorar uma base de dados fictícia de campanhas de marketing bancário.  
 
-queries.sql – Consultas SQL para extração e agregação dos dados.
+O objetivo é demonstrar, de forma prática, como criar um fluxo que vai desde o tratamento e extração de dados até a construção de um dashboard interativo com KPIs e visualizações dinâmicas.
 
-export_csvs.py – Script Python para exportar resultados das consultas SQL para arquivos CSV.
+## Funcionalidades
+- Criação e limpeza de banco de dados SQLite.
+- Consultas SQL para cálculo de indicadores.
+- Exportação automatizada de resultados para `.csv` com Python.
+- Construção de dashboard no Power BI com:
+  - Taxa de conversão por canal.
+  - Conversões por mês.
+  - Conversões por número de tentativas.
+  - Conversões por faixa etária.
+  - Conversões por duração de ligação.
+  - KPIs globais.
 
-Arquivos CSV – Contêm os dados processados e prontos para visualização no Power BI.
+## Tecnologias utilizadas
+- **SQLite** — armazenamento e consultas.
+- **Python** (com Pandas) — automação e exportação.
+- **Power BI** — visualização de dados.
+- **Git/GitHub** — controle de versão.
 
-Relatório Power BI – Visualização de métricas e indicadores de performance.
-
-Tecnologias Utilizadas
-SQLite – Armazenamento e consultas de dados.
-
-Python – Processamento e exportação de dados.
-
-Pandas – Manipulação de dados em Python.
-
-Power BI – Visualização interativa de dados.
-
-Git/GitHub – Controle de versão.
-
-Fluxo de Trabalho
-Carga e limpeza de dados no SQLite.
-
-Execução de consultas SQL para gerar indicadores.
-
-Exportação dos dados para arquivos CSV usando Python.
-
-Importação e modelagem dos dados no Power BI.
-
-Criação de dashboards para análise de KPIs.
-
-Objetivos de Análise
-Taxa de conversão por canal.
-
-Comparativo entre campanhas.
-
-Conversão por faixa etária e duração de contato.
-
-Visão geral de KPIs.
-
-Como Reproduzir
-Clonar este repositório.
-
-Criar e ativar um ambiente virtual Python.
-
-Instalar dependências listadas.
-
-Executar scripts para gerar os arquivos CSV.
-
-Abrir o relatório no Power BI e conectar aos dados gerados.
-
-Licença
-Este projeto utiliza uma base de dados fictícia e é destinado apenas para fins educacionais.
+## Observação
+A base de dados utilizada é **fictícia** e não contém informações pessoais reais.
