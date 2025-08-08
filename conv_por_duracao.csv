@@ -1,0 +1,5 @@
+faixa_duracao,tentativas,conversoes,taxa_conversao_pct
+180-299s,10345,1121,10.84
+300s+,12329,3467,28.12
+60-179s,17878,692,3.87
+<60s,4659,9,0.19
