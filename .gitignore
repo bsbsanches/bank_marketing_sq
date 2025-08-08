@@ -1,0 +1,170 @@
+(.venv) PS C:\Users\elien\Desktop\SQL\bank_marketing_sql> # Ambiente virtual Python
+>> .venv/
+>> venv/
+>> ENV/
+>>
+>> # Cache Python
+>> __pycache__/
+>> *.pyc
+>> 
+>> # Configurações pessoais e credenciais
+>> *.env
+>> *.ini
+>> *.cfg
+>>
+>> # Temporários e logs
+>> *.log
+>> *.tmp
+>>
+>> # Arquivos do VS Code
+>> .vscode/
+>>
+>> # Arquivos temporários do Power BI
+>> *.pbix.lock
+>> *.pbit.lock
+>>
+>> # Arquivos de sistema
+>> .DS_Store
+>> Thumbs.db
+>>
+.venv/ : O termo '.venv/' não é reconhecido como nome de cmdlet, função, arquivo de script 
+ou programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja  
+se o caminho está correto e tente novamente.
+No linha:2 caractere:1
++ .venv/
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.venv/:String) [], CommandNotFoundException    
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+venv/ : O termo 'venv/' não é reconhecido como nome de cmdlet, função, arquivo de script ou 
+programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se  
+o caminho está correto e tente novamente.
+No linha:3 caractere:1
++ venv/
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (venv/:String) [], CommandNotFoundException     
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+ENV/ : O termo 'ENV/' não é reconhecido como nome de cmdlet, função, arquivo de script ou 
+programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se  
+o caminho está correto e tente novamente.
+No linha:4 caractere:1
++ ENV/
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (ENV/:String) [], CommandNotFoundException      
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+__pycache__/ : O termo '__pycache__/' não é reconhecido como nome de cmdlet, função, arquivo 
+de script ou programa operável. Verifique a grafia do nome ou, se um caminho tiver sido       
+incluído, veja se o caminho está correto e tente novamente.
+No linha:7 caractere:1
++ __pycache__/
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (__pycache__/:String) [], CommandNotFoundExcep  
+   tion
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.pyc : O termo '*.pyc' não é reconhecido como nome de cmdlet, função, arquivo de script ou 
+programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se  
+o caminho está correto e tente novamente.
+No linha:8 caractere:1
++ *.pyc
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.pyc:String) [], CommandNotFoundException     
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.env : O termo '*.env' não é reconhecido como nome de cmdlet, função, arquivo de script ou 
+programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se  
+o caminho está correto e tente novamente.
+No linha:11 caractere:1
++ *.env
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.env:String) [], CommandNotFoundException     
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.ini : O termo '*.ini' não é reconhecido como nome de cmdlet, função, arquivo de script ou 
+programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se  
+o caminho está correto e tente novamente.
+No linha:12 caractere:1
++ *.ini
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.ini:String) [], CommandNotFoundException     
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.cfg : O termo '*.cfg' não é reconhecido como nome de cmdlet, função, arquivo de script ou 
+programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se  
+o caminho está correto e tente novamente.
+No linha:13 caractere:1
++ *.cfg
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.cfg:String) [], CommandNotFoundException     
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.log : O termo '*.log' não é reconhecido como nome de cmdlet, função, arquivo de script ou 
+programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se  
+o caminho está correto e tente novamente.
+No linha:16 caractere:1
++ *.log
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.log:String) [], CommandNotFoundException     
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.tmp : O termo '*.tmp' não é reconhecido como nome de cmdlet, função, arquivo de script ou 
+programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se  
+o caminho está correto e tente novamente.
+No linha:17 caractere:1
++ *.tmp
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.tmp:String) [], CommandNotFoundException     
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+.vscode/ : O termo '.vscode/' não é reconhecido como nome de cmdlet, função, arquivo de 
+script ou programa operável. Verifique a grafia do nome ou, se um caminho tiver sido
+incluído, veja se o caminho está correto e tente novamente.
+No linha:20 caractere:1
++ .vscode/
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.vscode/:String) [], CommandNotFoundException  
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.pbix.lock : O termo '*.pbix.lock' não é reconhecido como nome de cmdlet, função, arquivo 
+de script ou programa operável. Verifique a grafia do nome ou, se um caminho tiver sido       
+incluído, veja se o caminho está correto e tente novamente.
+No linha:23 caractere:1
++ *.pbix.lock
++ ~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.pbix.lock:String) [], CommandNotFoundExcept  
+   ion
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+*.pbit.lock : O termo '*.pbit.lock' não é reconhecido como nome de cmdlet, função, arquivo 
+de script ou programa operável. Verifique a grafia do nome ou, se um caminho tiver sido       
+incluído, veja se o caminho está correto e tente novamente.
+No linha:24 caractere:1
++ *.pbit.lock
++ ~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.pbit.lock:String) [], CommandNotFoundExcept  
+   ion
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+.DS_Store : O termo '.DS_Store' não é reconhecido como nome de cmdlet, função, arquivo de 
+script ou programa operável. Verifique a grafia do nome ou, se um caminho tiver sido
+incluído, veja se o caminho está correto e tente novamente.
+No linha:27 caractere:1
++ .DS_Store
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.DS_Store:String) [], CommandNotFoundExceptio  
+   n
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+Thumbs.db : O termo 'Thumbs.db' não é reconhecido como nome de cmdlet, função, arquivo de 
+script ou programa operável. Verifique a grafia do nome ou, se um caminho tiver sido
+incluído, veja se o caminho está correto e tente novamente.
+No linha:28 caractere:1
++ Thumbs.db
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Thumbs.db:String) [], CommandNotFoundExceptio  
+   n
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+(.venv) PS C:\Users\elien\Desktop\SQL\bank_marketing_sql> 
